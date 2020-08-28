@@ -1,5 +1,5 @@
-aws_access_key: "AKIAQRTDSXSI3K4UXFNY"
-aws_secret_key: "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"
+aws_access_key: ""
+aws_secret_key: ""
 region: "ap-southeast-1"
 
 # VPC
